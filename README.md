@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthik-K-J
-- 👀 I’m interested in automation, and machine learning applications
+- 👀 I’m interested in Automation, and Machine learning applications
 - 🌱 I’m currently learning C, Verilog, Assembly and Python 
-- 💞️ I’m looking to collaborate on projects on HDLs, embedded systems
+- 💞️ I’m looking to collaborate on projects on HDLs, Computer vision 
 - 📫 How to reach me via email karthikkj2003@gmail.com
 
 <!---
