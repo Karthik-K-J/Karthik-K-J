@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Predictive Analysis using ECG**
 
-- 🌱 I’m currently learning **C++,OpenCV, PyTorch**
+- 🌱 I’m currently learning **OpenCV, PyTorch**
 
 - 🤝 I’m looking for help with **writing Device drivers for embedded devices**
 
