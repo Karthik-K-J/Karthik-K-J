@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OpenCV, PyTorch**
 
-- 🤝 I’m looking for help with **writing Device drivers for embedded devices**
+- 🤝 I’m looking for help with **writing firmware for embedded devices**
 
 - 📫 How to reach me **karthikkj2003@gmail.com**
 
