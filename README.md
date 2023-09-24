@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Karthik KJ</h1>
-<h3 align="center">I'm a student of Electronics and Communication Engineering from India. Interested in working on Low-level system design and Real time signal processing projects.</h3>
+<h1 align="left">Hi 👋, I'm Karthik KJ</h1>
+<h3 align="left">I'm a student of Electronics and Communication Engineering from India. Interested in working on Low-level system design and Real time signal processing projects.</h3>
 
-- 🔭 I’m currently working on **Predictive Analysis using ECG**
+- 🔭 I’m currently working on **Mastering DSA**
 
-- 🌱 I’m currently learning **OpenCV, PyTorch**
-
-- 🤝 I’m looking for help with **writing firmware for embedded devices**
+- 🌱 I’m currently learning **Rust and Scikit-learn**
 
 - 📫 How to reach me **karthikkj2003@gmail.com**
 
