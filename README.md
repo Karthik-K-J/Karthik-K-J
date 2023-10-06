@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Karthik KJ</h1>
-<h3 align="left">I'm a student of Electronics and Communication Engineering from India. Interested in working on Low-level system design and Real time signal processing projects.</h3>
+<h3 align="left">I'm a student of Electronics and Communication Engineering from Trivandrum, Kerala. Interested in working on embedded systems and machine learning projects.</h3>
 
 - 🔭 I’m currently working on **Mastering DSA**
 
