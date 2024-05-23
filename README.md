@@ -3,7 +3,7 @@ I'm Karthik, an electronics engineer from Trivandrum, Kerala
 
 I'm primarily interested in working with **embedded systems** and am currently engaged in my final year project
 
-I've developed systems involving real time spectrum mapping, global navigation and am enrolled in Andrew Ng's ML course
+I've developed systems involving real time spectrum mapping, global navigation using C++ and python
 
 #### Let's connect! 📫
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@karthikkj2003)
